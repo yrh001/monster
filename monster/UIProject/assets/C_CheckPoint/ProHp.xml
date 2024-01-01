@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,21" extention="ProgressBar">
+  <displayList>
+    <image id="n2_hho2" name="n2" src="hho27" fileName="RGBA/bg_progress_hp.png" xy="0,0"/>
+    <image id="n3_hho2" name="bar" src="hho2a" fileName="RGBA/icon_progress_hp.png" xy="0,2"/>
+    <text id="n4_hho2" name="n4" xy="0,-3" size="750,24" font="ui://rjr2nsnthho20" fontSize="16" color="#ffffff" align="center" autoSize="none" strokeColor="#000000" strokeSize="2" text="1000/5000"/>
+  </displayList>
+  <ProgressBar/>
+</component>

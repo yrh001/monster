@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o40l6pgy">
+  <resources>
+    <image id="wef80" name="bg_btn_green.png" path="/" exported="true"/>
+    <image id="wef81" name="bg_btn_yellow.png" path="/" exported="true" scale="9grid" scale9grid="23,17,46,34"/>
+    <image id="wef82" name="bg_btn_yellow2.png" path="/" exported="true"/>
+    <image id="wef83" name="icon_add.png" path="/" exported="true"/>
+    <image id="wef84" name="icon_add2.png" path="/" exported="true"/>
+    <image id="wef85" name="icon_lock.png" path="/" exported="true"/>
+    <image id="wef86" name="icon_lock2.png" path="/" exported="true"/>
+    <image id="wef87" name="icon_progress.png" path="/" exported="true"/>
+    <image id="wef88" name="icon_progress_bg.png" path="/" exported="true" scale="9grid" scale9grid="42,4,84,8"/>
+    <image id="wef89" name="icon_progress_bg2.png" path="/" exported="true"/>
+    <image id="wef8a" name="icon_progress_green.png" path="/" exported="true" scale="9grid" scale9grid="24,3,48,6"/>
+    <image id="wef8b" name="icon_progress_red.png" path="/" exported="true"/>
+    <image id="wef8c" name="icon_set.png" path="/" exported="true"/>
+    <image id="wef8d" name="icon_talk.png" path="/" exported="true"/>
+    <image id="wef8e" name="icon_taskBg.png" path="/" exported="true" scale="9grid" scale9grid="14,17,28,34"/>
+    <image id="wef8f" name="icon_player.png" path="/" exported="true"/>
+    <image id="wef8g" name="icon_monster.png" path="/" exported="true"/>
+    <image id="wef8h" name="icon_bg.png" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

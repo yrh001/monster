@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rlau57vl">
+  <resources>
+    <movieclip id="hho22" name="monster_1.jta" path="/1/" exported="true"/>
+    <image id="hho23" name="Armature_newAnimation_00.png" path="/1/"/>
+    <image id="hho24" name="Armature_newAnimation_03.png" path="/1/"/>
+    <image id="hho25" name="Armature_newAnimation_06.png" path="/1/"/>
+    <image id="hho26" name="Armature_newAnimation_09.png" path="/1/"/>
+    <image id="hho27" name="Armature_newAnimation_12.png" path="/1/"/>
+    <image id="hho28" name="Armature_newAnimation_15.png" path="/1/"/>
+    <image id="hho29" name="Armature_newAnimation_18.png" path="/1/"/>
+    <image id="hho2a" name="Armature_newAnimation_21.png" path="/1/"/>
+    <image id="hho2b" name="Armature_newAnimation_24.png" path="/1/"/>
+    <image id="hho2c" name="Armature_newAnimation_27.png" path="/1/"/>
+    <image id="hho2d" name="Armature_newAnimation_30.png" path="/1/"/>
+    <image id="hho2e" name="Armature_newAnimation_32.png" path="/1/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

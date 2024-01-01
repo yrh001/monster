@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n15_hho2" name="n15" src="hho24" fileName="RGBA/bg_checkpoint.png" xy="375,522" pivot="0.5,0.5" anchor="true"/>
+    <image id="n26_hho2" name="n26" src="hho2e" fileName="RGBA/icon_wall.png" xy="0,996"/>
+    <component id="n0_wef8" name="btn_speed" src="hho2h" fileName="ButtonStop.xml" xy="12,55" size="133,48">
+      <Button title="50%"/>
+    </component>
+    <component id="n8_wef8" name="pro_exp" src="hho2g" fileName="ProExp.xml" xy="11,13" size="721,21">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n9_wef8" name="pro_hp" src="hho26" fileName="ProHp.xml" xy="0,1054" size="750,21">
+      <relation target="" sidePair="bottom-bottom"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <loader id="n10_wef8" name="ld_player" xy="265,1065" pivot="0.5,0.5" size="213,243" url="ui://r9lhlvt3hho2d">
+      <relation target="" sidePair="topext-bottom,bottomext-bottom"/>
+    </loader>
+    <component id="n14_hho2" name="n14" src="n6253" fileName="monster.xml" xy="35,870"/>
+    <component id="n16_hho2" name="n16" src="n6253" fileName="monster.xml" xy="369,870" size="100,100"/>
+    <component id="n17_hho2" name="n17" src="n6253" fileName="monster.xml" xy="202,870" size="100,100"/>
+    <component id="n18_hho2" name="n18" src="n6253" fileName="monster.xml" xy="536,870" size="100,100"/>
+    <component id="n19_hho2" name="n19" src="n6253" fileName="monster.xml" xy="703,870" size="100,100"/>
+    <text id="n21_hho2" name="title" xy="279,32" size="167,47" font="ui://rjr2nsnthho21" fontSize="32" color="#ffffff" align="center" autoSize="none" text="Lv.1"/>
+    <image id="n22_hho2" name="n22" src="hho2c" fileName="RGBA/icon_prop_1.png" xy="587,65"/>
+    <text id="n23_hho2" name="txt_prop1" xy="587,65" size="112,44" font="ui://rjr2nsnthho22" fontSize="32" color="#ffffff" align="center" vAlign="bottom" autoSize="none" text="10000"/>
+    <image id="n24_hho2" name="n24" src="hho2d" fileName="RGBA/icon_prop_2.png" xy="587,129"/>
+    <text id="n25_hho2" name="txt_prop1" xy="587,128" size="112,44" font="ui://rjr2nsnthho20" fontSize="32" color="#ffffff" align="center" autoSize="none" text="10000"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n1_hho2" name="n1" src="hho25" fileName="RGBA/icon_monster_shadow.png" xy="-9,51" pivot="0.5,0.5"/>
+    <loader id="n0_n625" name="ld_monster" xy="50,50" pivot="0.5,0.5" anchor="true" size="68,74" url="ui://rlau57vlhho22" align="center" vAlign="middle" autoSize="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rjr2nsnt">
+  <resources>
+    <font id="hho20" name="normal.TTF" path="/" exported="true" renderMode="" samplePointSize="16"/>
+    <font id="hho21" name="方正粗圆简体.TTF" path="/" exported="true" renderMode="" samplePointSize="16"/>
+    <font id="hho22" name="汉仪中圆简.TTF" path="/" exported="true" renderMode="" samplePointSize="16"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

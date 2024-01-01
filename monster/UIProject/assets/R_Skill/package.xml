@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o4zi19hn">
+  <resources>
+    <image id="wef80" name="icon_skill_1.png" path="/" exported="true"/>
+    <image id="wef81" name="icon_skill_2.png" path="/" exported="true"/>
+    <image id="wef82" name="icon_skill_3.png" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

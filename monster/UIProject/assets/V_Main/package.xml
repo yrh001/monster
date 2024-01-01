@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="orvq9ucp">
+  <resources>
+    <component id="wef80" name="Main.xml" path="/" exported="true"/>
+    <image id="wef89" name="bg_main.png" path="/images/" exported="true"/>
+    <image id="wef8a" name="bg_tab.png" path="/images/" exported="true"/>
+    <image id="wef8b" name="icon_tab_fight.png" path="/images/" exported="true"/>
+    <image id="wef8c" name="icon_tab_guild.png" path="/images/" exported="true"/>
+    <image id="wef8d" name="icon_tab_home.png" path="/images/" exported="true"/>
+    <image id="wef8e" name="icon_tab_pet.png" path="/images/" exported="true"/>
+    <image id="wef8f" name="icon_tab_role.png" path="/images/" exported="true"/>
+    <image id="wef8g" name="icon_tab_shop.png" path="/images/" exported="true"/>
+    <component id="wef88" name="MainTabItem.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

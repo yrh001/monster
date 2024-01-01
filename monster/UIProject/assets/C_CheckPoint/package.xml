@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o1lwqsht">
+  <resources>
+    <component id="wef80" name="CheckPoint.xml" path="/" exported="true"/>
+    <component id="wef82" name="SkillItem.xml" path="/"/>
+    <component id="n6253" name="Monster.xml" path="/" exported="true"/>
+    <image id="hho24" name="bg_checkpoint.png" path="/RGBA/"/>
+    <image id="hho25" name="icon_monster_shadow.png" path="/RGBA/"/>
+    <component id="hho26" name="ProHp.xml" path="/"/>
+    <image id="hho27" name="bg_progress_hp.png" path="/RGBA/"/>
+    <image id="hho28" name="bg_progress_top.png" path="/RGBA/" scale="9grid" scale9grid="32,7,676,11"/>
+    <image id="hho29" name="icon_btn_stop.png" path="/RGBA/"/>
+    <image id="hho2a" name="icon_progress_hp.png" path="/RGBA/"/>
+    <image id="hho2b" name="icon_prop.png" path="/RGBA/"/>
+    <image id="hho2c" name="icon_prop_1.png" path="/RGBA/"/>
+    <image id="hho2d" name="icon_prop_2.png" path="/RGBA/"/>
+    <image id="hho2e" name="icon_wall.png" path="/RGBA/"/>
+    <image id="hho2f" name="icon_progress_exp.png" path="/RGBA/"/>
+    <component id="hho2g" name="ProExp.xml" path="/"/>
+    <component id="hho2h" name="ButtonStop.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

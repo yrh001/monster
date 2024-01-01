@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="o3ubupt0">
+  <resources>
+    <image id="wef89" name="icon_prop_2.png" path="/icon/" exported="true"/>
+    <image id="wef8a" name="icon_prop_1.png" path="/icon/" exported="true"/>
+    <image id="wef8b" name="icon_prop_bg_1.png" path="/bg/" exported="true"/>
+    <image id="wef8c" name="icon_prop_bg_2.png" path="/bg/" exported="true"/>
+    <image id="wef8d" name="icon_prop_bg_3.png" path="/bg/" exported="true"/>
+    <image id="wef8e" name="icon_prop_bg_4.png" path="/bg/" exported="true"/>
+    <image id="wef8f" name="icon_prop_bg_5.png" path="/bg/" exported="true"/>
+    <image id="wef8g" name="icon_prop_bg_6.png" path="/bg/" exported="true"/>
+    <image id="wef8h" name="icon_prop_bg_7.png" path="/bg/" exported="true"/>
+    <image id="wef8i" name="icon_prop_bg_8.png" path="/bg/" exported="true"/>
+    <image id="wef8j" name="icon_prop_lock.png" path="/bg/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="88,88">
+  <displayList>
+    <loader id="n0_wef8" name="icon_bg" xy="0,0" pivot="0.5,0.5" size="88,88" url="ui://o3ubupt0wef80"/>
+    <loader id="n1_wef8" name="icon_prop" xy="44,44" pivot="0.5,0.5" anchor="true" size="88,88" url="ui://obbqc4scwef80" align="center" vAlign="middle"/>
+  </displayList>
+</component>

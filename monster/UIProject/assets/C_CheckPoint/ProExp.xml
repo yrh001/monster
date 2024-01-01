@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="726,21" extention="ProgressBar">
+  <displayList>
+    <image id="n4_hho2" name="n4" src="hho28" fileName="RGBA/bg_progress_top.png" xy="0,0" alpha="0.5"/>
+    <image id="n5_hho2" name="bar" src="hho2f" fileName="RGBA/icon_progress_exp.png" xy="4,1"/>
+  </displayList>
+  <ProgressBar/>
+</component>

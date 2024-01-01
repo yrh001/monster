@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1,
+    "name": "史莱姆",
+    "equlity": 0,
+    "lv": 1,
+    "hp": 250,
+    "atk": 10,
+    "def": 0,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": "main/role/role"
+  },
+  {
+    "id": 3101001,
+    "name": "粘液怪",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 30,
+    "atk": 15,
+    "def": 0,
+    "skills": {
+      "id": 1,
+      "lv": 1
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": "main/mxmonster1/demo"
+  },
+  {
+    "id": 3101002,
+    "name": "食人花",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 250,
+    "atk": 2,
+    "def": 2,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101003,
+    "name": "熔岩怪",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 100,
+    "atk": 2,
+    "def": 30,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101004,
+    "name": "哥布林",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 15,
+    "atk": 25,
+    "def": 0,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101005,
+    "name": "果冻怪",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 500,
+    "atk": 1,
+    "def": 0,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101006,
+    "name": "萤火虫",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 100,
+    "atk": 2,
+    "def": 50,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101007,
+    "name": "木乃伊",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 20,
+    "atk": 5,
+    "def": 100,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101008,
+    "name": "蝙蝠",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 50,
+    "atk": 4,
+    "def": 4,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3101009,
+    "name": "甲虫",
+    "equlity": 1,
+    "lv": 1,
+    "hp": 50,
+    "atk": 2,
+    "def": 80,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3102001,
+    "name": "巨型海葵",
+    "equlity": 2,
+    "lv": 1,
+    "hp": 1000,
+    "atk": 60,
+    "def": 30,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3102002,
+    "name": "狼人",
+    "equlity": 2,
+    "lv": 1,
+    "hp": 400,
+    "atk": 120,
+    "def": 20,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3102003,
+    "name": "吸血鬼",
+    "equlity": 2,
+    "lv": 1,
+    "hp": 1000,
+    "atk": 80,
+    "def": 150,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3102004,
+    "name": "骷髅",
+    "equlity": 2,
+    "lv": 1,
+    "hp": 100,
+    "atk": 150,
+    "def": 0,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3103001,
+    "name": "巨龙",
+    "equlity": 3,
+    "lv": 1,
+    "hp": 3000,
+    "atk": 800,
+    "def": 100,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  },
+  {
+    "id": 3104001,
+    "name": "混沌兽",
+    "equlity": 4,
+    "lv": 1,
+    "hp": 50,
+    "atk": 1,
+    "def": 10,
+    "skills": {
+      "id": 0,
+      "lv": 0
+    },
+    "award": [
+      {
+        "id": 1001,
+        "num": 2
+      },
+      {
+        "id": 1,
+        "num": 2
+      }
+    ],
+    "suckAward": [
+      {
+        "id": 0,
+        "num": 0
+      }
+    ],
+    "desc": "",
+    "animationClipPath": ""
+  }
+]

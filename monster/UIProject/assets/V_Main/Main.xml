@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_wef8" name="n0" src="wef89" fileName="images/bg_main.png" xy="0,-88">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n1_wef8" name="n1" src="wef8a" fileName="images/bg_tab.png" xy="0,1205">
+      <relation target="" sidePair="bottom-bottom"/>
+    </image>
+    <list id="n2_wef8" name="list_tab" xy="4,1203" size="750,129" layout="row" lineGap="112" colGap="5" defaultItem="ui://orvq9ucpwef88">
+      <item icon="ui://orvq9ucpwef8f"/>
+      <item icon="ui://orvq9ucpwef8e"/>
+      <item icon="ui://orvq9ucpwef8b"/>
+      <item icon="ui://orvq9ucpwef8d"/>
+      <item icon="ui://orvq9ucpwef8c"/>
+      <item icon="ui://orvq9ucpwef8g"/>
+    </list>
+  </displayList>
+</component>
